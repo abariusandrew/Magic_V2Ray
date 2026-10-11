@@ -1,3 +1,7 @@
+# Release Notes — v1.23.1
+
+Update Xray-core to v26.10.10
+
 # Release Notes — v1.23
 
 Magic V2Ray version 1.23 introduces a comprehensive set of improvements centered around network safety, restart reliability, and a redesigned DNS management experience.
